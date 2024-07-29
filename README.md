@@ -1,4 +1,4 @@
-### vending_machine_1.0.4
+### vending_machine_1.0.3
 Practice project to solidify your Java skills using File I/O
 
 ### Ticket Breakdown for File I/O/NIO
